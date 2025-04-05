@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "description_header": "Hola",
+    "description": "👋 Soy Pablo Seijo, estudiante de Ingeniería Informática en la Universidade de Santiago de Compostela y actualmente trabajo como Administrador de Sistemas y Redes en NS Centro de Psicoterapia y Trauma. Originario de Ferrol, Galicia, participo activamente en proyectos colaborativos como Evolutia.dev (automatización) y Meditracker (seguimiento de medicación). Me interesa especialmente el desarrollo de proyectos propios, la automatización con inteligencia artificial y la gestión de redes. Trabajo principalmente en entornos macOS y Ubuntu Server. Estoy abierto a colaborar en iniciativas que se alineen con mis intereses técnicos.",
+    "section_name": {
+      "about": "Sobre mí",
+      "projects": "Proyectos",
+      "skills": "Competencias",
+      "experience": "Experiencia"
+    }
+  },
+  "projects": [
+    {
+      "title": "MediTracker",
+      "startDate": "2025",
+      "description": "Meditracker es una aplicación de seguimiento de medicación con arquitectura frontend-backend. Permite a los usuarios registrar y monitorizar la toma de medicamentos —esporádica o recurrente— mediante escaneo QR o búsqueda textual. Incluye un asistente virtual con interacción por voz para mejorar la accesibilidad, así como funciones dirigidas a profesionales sanitarios para gestionar y monitorizar pacientes. Está diseñada para ser fácilmente utilizable por cualquier tipo de usuario.",
+      "images": [
+        "images/portfolio/meditracker/imagen1.jpg",
+        "images/portfolio/meditracker/imagen2.jpeg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "NS Centro de Psicoterapia y Trauma",
+      "title": "Administrador de Sistemas y Redes",
+      "years": "10.2024 - presente",
+      "mainTech": [
+        "Bash",
+        "Redes"
+      ],
+      "technologies": [
+        "Docker",
+        "Synology NAS",
+        "Ubiquiti UniFi",
+        "Notion",
+        "Ubuntu Server",
+        "macOS",
+        "SSH",
+        "Gestión de Firewalls",
+        "Systemd"
+      ]
+    },
+    {
+      "company": "STGO Diseño y Multimedia",
+      "title": "Prácticas",
+      "years": "07.2024",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "Docusaurus",
+        "Tailwind CSS",
+        "JSON",
+        "Servidores Mock"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Pablo Seijo",
+      "titles": [ "Student", "Junior SysAdmin", "MediTracker Cofunder"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/pabloseijo",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/_pabloseijo_/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "65"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "80"
+        },
+        {
+          "name":"Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "70"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "75"
+        },
+        {
+          "name": "Bash",
+          "class": "devicon-bash-plain",
+          "level": "70"
+        },
+        {
+          "name": "Networking",
+          "class": "fas fa-network-wired",
+          "level": "70"
+        }        
+      ]
+    }
+  }
