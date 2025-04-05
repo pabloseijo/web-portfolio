@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Pablo Seijo, a Computer Engineering student at the University of Santiago de Compostela and currently working as a Systems and Network Administrator at NS Centro de Psicoterapia y Trauma. Originally from Ferrol, Galicia, I actively participate in team-based projects such as Evolutia.dev (automation) and Meditracker (medication tracking). My main interests are in developing my own projects, automation using artificial intelligence, and network management. I primarily work with macOS and Ubuntu Server environments. I'm open to collaborating on initiatives that align with my technical interests.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,67 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "MediTracker",
+        "startDate": "2025",
+        "description": "Meditracker is a medication tracking app with a frontend-backend architecture. It allows users to log and monitor medication intake—sporadic or recurring—via QR scanning or text search. The app includes a virtual assistant with voice interaction for improved accessibility, and features for healthcare professionals to manage and monitor patients. Designed for ease of use across all user profiles.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/meditracker/imagen1.jpg",
+        "images/portfolio/meditracker/imagen2.jpeg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
+            "class": "devicon-react-plain",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "NS Centro de Psicoterapia y Trauma",
+        "title": "Network and Systems Administrator",
+        "years": "10.2024 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Bash",
+          "Networks"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Docker",
+          "Synology NAS",
+          "Ubiquiti UniFi",
+          "Notion",
+          "Ubuntu Server",
+          "macOS",
+          "SSH",
+          "Firewall Management",
+          "Systemd"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "STGO Diseño y Multimedia",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "07.2024",
         "mainTech": [
-          "Angular 7/8"
+          "React"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Docusaurus",
+          "Tailwind CSS",
+          "JSON",
+          "Mock Servers"        
         ]
       }
     ]
