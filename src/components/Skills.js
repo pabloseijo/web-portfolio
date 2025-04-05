@@ -26,6 +26,17 @@ class Skills extends Component {
 
     return (
       <section id="skills">
+        <style>
+          {`
+            .skills-tile {
+              transition: transform 0.3s ease-in-out;
+            }
+
+            .skills-tile:hover {
+              transform: scale(1.15);
+            }
+          `}
+        </style>
         <div className="col-md-12">
           <div className="col-md-12">
             <h1 className="section-title">

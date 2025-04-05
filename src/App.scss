@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #e9eff6;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -65,7 +65,7 @@ header {
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: rgba(255, 255, 255, 0.03); // sutil transparencia
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -74,7 +74,7 @@ header {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #e9eff6;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -83,18 +83,18 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #3a4e68;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #4a90e2;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #4a90e2;
 	height: 25px;
 }
 
@@ -219,7 +219,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #e9eff6;
 }
 
 .experience-icon {
@@ -233,7 +233,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
+	background-color: #4a90e2 !important;
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -244,7 +244,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: #dce6f2 !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -264,7 +264,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-	background: white;
+	background: #ffffff;
 }
 
 .bars {
@@ -303,7 +303,7 @@ header h1 {
 	top: 0;
 	margin: 0;
 	padding-right: 24px;
-	background: #313131;
+	background: #4a90e2;
 	display: inline-block;
 	height: 42px;
 	line-height: 42px;
@@ -317,7 +317,7 @@ header h1 {
 }
 
 .close-icon {
-	color: black;
+	color: #3a4e68;
 	font-weight: lighter !important;
 }
 
@@ -341,7 +341,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #e9eff6;
 	padding-bottom: 5%;
 }
 
@@ -377,7 +377,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #1f2a36;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -396,13 +396,13 @@ header h1 {
 
 .skill-icon {
 	font-size: 180%;
-	color: white;
+	color: #ffffff;
 	text-align: center;
 	position: relative;
 }
 
 footer {
-	background: #1F1F1F;
+	background: #1f2a36;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;

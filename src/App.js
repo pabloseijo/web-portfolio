@@ -34,13 +34,13 @@ class App extends Component {
       oppositeLangIconId === window.$primaryLanguageIconId
         ? window.$secondaryLanguageIconId
         : window.$primaryLanguageIconId;
-    document
-      .getElementById(oppositeLangIconId)
-      .removeAttribute("filter", "brightness(40%)");
-    document
-      .getElementById(pickedLangIconId)
-      .setAttribute("filter", "brightness(40%)");
-  }
+  
+    // Restaurar icono anterior (remover filtro)
+    document.getElementById(oppositeLangIconId).style.filter = "brightness(40%)";
+  
+    // Oscurecer el icono actualmente seleccionado
+    document.getElementById(pickedLangIconId).style.filter = "none";
+  }  
 
   componentDidMount() {
     this.loadSharedData();

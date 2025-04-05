@@ -64,7 +64,7 @@ class About extends Component {
                     ></span>
                   </div>
                   <div
-                    className="card-body font-trebuchet text-justify ml-3 mr-3"
+                    className="card-body font-trebuchet text-left ml-3 mr-3"
                     style={{
                       height: "auto",
                       fontSize: "132%",
