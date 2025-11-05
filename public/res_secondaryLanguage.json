@@ -41,6 +41,23 @@
   ],
   "experience": [
     {
+        "company": "Keltera Studio",
+        "title": "Head of Design & CMS",
+        "years": "08.2025 - present",
+        "mainTech": [
+          "React",
+          "NextJS",
+          "Framer"
+        ],
+        "technologies": [
+          "Framer",
+          "NextJS",
+          "React",
+          "Tailwind",
+          "Webflow"
+        ]
+      },
+    {
       "company": "NS Centro de Psicoterapia y Trauma",
       "title": "Administrador de Sistemas y Redes",
       "years": "10.2024 - presente",
